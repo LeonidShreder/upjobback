@@ -1,0 +1,9 @@
+{
+    "db_user": "upjob_user",
+    "db_user_password": "user",
+    "db_name": "upjob",
+    "MAIL_SERVER": "smtp.gmail.com",
+    "MAIL_PORT": 465,
+    "MAIL_USERNAME": "yourId@gmail.com",
+    "MAIL_PASSWORD": "*****"
+}
